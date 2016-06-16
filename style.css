@@ -1,1 +1,28 @@
-style.css
+
+.grid {
+	border: 1px solid tomato;
+	margin: 1em;
+	overflow: hidden;
+}
+
+	.grid .container {
+		width: 50%;
+		float: left;
+
+		background: #eee;
+		border: 1px solid teal;
+		box-sizing: border-box;
+
+		/* Box 1:1 width:height*/
+		padding: 25% 0;
+		position: relative;
+	}
+
+		.grid .container svg {
+			position: absolute;
+			top: 0;
+			left: 0;
+			margin: 2%;
+			width: 96%;
+			height: 96%;
+		}
