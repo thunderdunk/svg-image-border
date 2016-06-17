@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2120 1700">
+  <title>Devices - iMac</title>
+
+    <rect x="10" y="7.99" width="2100" height="1450" rx="41.98" ry="41.98" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="100" y="99.67" width="1920" height="1080" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="10" y1="1265.99" x2="2110" y2="1265.99" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <circle cx="1060" cy="53.45" r="10" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <g>
+      <path d="M1296.5,1458s15.5,142.9,19.5,163.38,6,34,13,36,90,22,90,22" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+      <path d="M701,1679.34s83-20,90-22,9-15.49,13-36S823.5,1458,823.5,1458" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <rect x="700" y="1679.01" width="720" height="8.99" rx="1.02" ry="1.02" fill="none" stroke="#231f20" stroke-linejoin="round" stroke-width="3"/>
+
+</svg>

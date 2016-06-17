@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2280">
+  <title>Devices - iPad</title>
+
+    <rect x="-160" y="420" width="1920" height="1440" transform="translate(1940 340) rotate(90)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="10" y="10" width="1580" height="2260" rx="90.96" ry="90.96" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2.94"/>
+    <circle cx="800" cy="2182.45" r="45" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2.25"/>
+    <circle cx="800" cy="97.95" r="15" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+
+</svg>

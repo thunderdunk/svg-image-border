@@ -18,7 +18,7 @@
 		position: relative;
 	}
 
-		.grid .container svg {
+		.grid .container svg.device {
 			position: absolute;
 			top: 0;
 			left: 0;

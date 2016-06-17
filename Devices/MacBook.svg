@@ -1,0 +1,10 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2440 1510">
+  <title>Devices - MacBook</title>
+  <g>
+    <rect x="260" y="109.61" width="1920" height="1200" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="10" y="1446.87" width="2420" height="20.05" rx="4.01" ry="4.01" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <path d="M2268.49,1446.8a58.87,58.87,0,0,0,11.51-35V68a59.26,59.26,0,0,0-59-59.16H219A59.26,59.26,0,0,0,160,68V1411.82a58.88,58.88,0,0,0,11.51,35" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+    <path d="M13,1466.79s80.16,32.09,180.27,32.09H2246.73c100.11,0,180.27-32.09,180.27-32.09" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle cx="1220" cy="60.66" r="12" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>
